@@ -1,0 +1,17 @@
+:root{
+
+    --cor-de-fundo: #0f0808;
+    --cor-de-letra: #281059;
+    --cor-de-destaque: #da13ab;
+
+
+}
+
+{
+    margin:0%;
+    padding: 0%;
+}
+body{
+  background-color: var(--cor-de-fundo);
+
+}
